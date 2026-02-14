@@ -1,6 +1,6 @@
 @ECHO OFF
 COLOR 0A
-TITLE GHOST v2025.07
+TITLE GHOST v2026.01
 
 :: Get current year reliably using PowerShell
 FOR /F %%i IN ('powershell -NoProfile -Command "Get-Date -Format yyyy"') DO SET Year=%%i
@@ -9,7 +9,7 @@ FOR /F %%i IN ('powershell -NoProfile -Command "Get-Date -Format yyyy"') DO SET 
 CLS
 
 ECHO ---------------------------------------------------------------
-ECHO          GHOST v2025.07 - Getting Here Once Saves Time
+ECHO          GHOST v2026.01 - Getting Here Once Saves Time
 ECHO ---------------------------------------------------------------
 ECHO.
 ECHO    Please make sure that you are connected to the Internet.
