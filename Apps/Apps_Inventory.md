@@ -1,4 +1,4 @@
-Apps Folder - Required Files for GHOST v2025.07
+Apps Folder - Required Files for GHOST 2026.01
 ===============================================
 
 These are the required installer files that must be present in the "Apps\" directory
