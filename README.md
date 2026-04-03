@@ -14,3 +14,6 @@ G.H.O.S.T. (aka [GHOST](https://github.com/nyhtml/GHOST)) is a project that uses
 
 - [Changelog](CHANGELOG.md)
 - [License](LICENSE)
+
+## Download
+View [releases](https://github.com/nyhtml/GHOST/releases/) or download [GHOST.zip](https://github.com/nyhtml/GHOST/releases/latest/download/GHOST.zip) from GitHub.
