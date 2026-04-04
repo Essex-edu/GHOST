@@ -126,7 +126,7 @@ GOTO Done
 
 :InstallVLC
 ECHO Launching VLC Media Player Installer...
-"Apps\vlc.exe"
+"Apps\vlc-3.0.20-win64.exe"
 GOTO Done
 
 :InstallZoom
