@@ -1,6 +1,6 @@
 @ECHO OFF
 COLOR 0A
-TITLE GHOST v2026.01
+TITLE GHOST v2026.04
 
 :: Get current year reliably using PowerShell
 FOR /F %%i IN ('powershell -NoProfile -Command "Get-Date -Format yyyy"') DO SET Year=%%i
