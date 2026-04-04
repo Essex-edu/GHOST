@@ -18,7 +18,7 @@ OperaSetup.exe                    | Opera Browser
 jre-6u25-windows-i586-s.exe       | Oracle Java 6
 jre-7-windows-x64.exe             | Oracle Java 7
 essex_SurePDF.msi                 | RSA SurePDF
-vlc.exe                           | VLC Media Player
+vlc-3.0.20.exe                           | VLC Media Player
 WinSCP.exe                        | WinSCP File Transfer Client
 ZoomInstallerFull.exe             | Zoom Client for Meetings
 MOPPI.cmd                         | Microsoft Office 2019/2021/365 Installer Script
